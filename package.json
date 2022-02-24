@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasomer75/jest-another-rpg.git"
+  },
+  "author": "Geoff Somer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasomer75/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/gasomer75/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
